@@ -13,7 +13,7 @@
  
 ### HR Employee Attrition
 
-🧰 Libraries & Tools Used
+### 🧰 Libraries & Tools Used
 pandas        – data manipulation
 numpy         – numerical computation
 matplotlib    – data visualization
@@ -43,7 +43,8 @@ Combining Power BI dashboards with Python machine learning enabled both descript
   
   Bachelor of Science (BSc IT) Information Technology from Mumbai University   
 
-Contacts (UAE): +971 507510579
 
-Email: franklin.castelino95@gmail.com
+#### Contacts (UAE): +971 507510579
+
+#### Email: franklin.castelino95@gmail.com
 
