@@ -6,9 +6,9 @@
 
 ## Table of content
 
-[HR Employee Attrition](#hr-employee-attrition)
+HR Employee Attrition(#hr-employee-attrition)
 
-[Personal details](#personal-details)
+Personal details (#personal-details)
  
  
  HR Employee Attrition
