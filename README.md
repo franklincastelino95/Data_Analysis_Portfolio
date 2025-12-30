@@ -7,7 +7,7 @@
 ## Table of content
 
 [HR Employee Attrition](#hr-employee-attrition)
-
+[Personal details](#personal-details)
  
  
  HR Employee Attrition
@@ -33,7 +33,7 @@ Results: The analysis revealed that overtime, income level, and tenure are the s
 Combining Power BI dashboards with Python machine learning enabled both descriptive and predictive insights, supporting data-driven HR retention strategies.
 
 
-
+Personal details
 Education
 {
 
