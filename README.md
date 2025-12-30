@@ -6,12 +6,13 @@
 
 ## Table of content
 
-{
-}
- 
-###HR Employee Attrition
+[HR Employee Attrition](#hr-employee-attrition)
 
-####🧰 Libraries & Tools Used
+ 
+ 
+ HR Employee Attrition
+
+🧰 Libraries & Tools Used
 pandas        – data manipulation
 numpy         – numerical computation
 matplotlib    – data visualization
