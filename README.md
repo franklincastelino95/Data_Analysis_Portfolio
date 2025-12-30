@@ -1,17 +1,17 @@
-# Data_Analysis_Portfolio
+#  Data Analysis Portfolio
 
 ## About
 {
 }
 
-Table of content
+## Table of content
 
 {
 }
  
-HR Employee Attrition
+###HR Employee Attrition
 
-🧰 Libraries & Tools Used
+####🧰 Libraries & Tools Used
 pandas        – data manipulation
 numpy         – numerical computation
 matplotlib    – data visualization
