@@ -11,7 +11,7 @@
 [Personal details](#personal-details)
  
  
- HR Employee Attrition
+### HR Employee Attrition
 
 🧰 Libraries & Tools Used
 pandas        – data manipulation
@@ -34,9 +34,9 @@ Results: The analysis revealed that overtime, income level, and tenure are the s
 Combining Power BI dashboards with Python machine learning enabled both descriptive and predictive insights, supporting data-driven HR retention strategies.
 
 
-# Personal details
+## Personal details
 
-## Education
+### Education
   MSc in Data Analysis from Manipal Academy of Higher Education
   
   Post Graduate Diploma (PGDM) in Commercial Shipping Management & Logistics from Narottam Morarjee Institute Of Shipping 
