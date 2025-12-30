@@ -34,12 +34,16 @@ Results: The analysis revealed that overtime, income level, and tenure are the s
 Combining Power BI dashboards with Python machine learning enabled both descriptive and predictive insights, supporting data-driven HR retention strategies.
 
 
-## Personal details
-Education
+##Personal details
+
+#Education
   MSc in Data Analysis from Manipal Academy of Higher Education
+  
   Post Graduate Diploma (PGDM) in Commercial Shipping Management & Logistics from Narottam Morarjee Institute Of Shipping 
+  
   Bachelor of Science (BSc IT) Information Technology from Mumbai University   
 
 Contacts (UAE): +971 507510579
+
 Email: franklin.castelino95@gmail.com
 
