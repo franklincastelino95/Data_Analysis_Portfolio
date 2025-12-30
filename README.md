@@ -1,5 +1,5 @@
 # Data_Analysis_Portfolio
-Data Analysis portfolio
+
 ## About
 {
 }
@@ -9,16 +9,27 @@ Table of content
 {
 }
  
-Project 1
-Code: Data Cleaning Project Queries: Link to page with code and graphs etc
+HR Employee Attrition
 
-Description: The dataset contains a list of houses that haS
+🧰 Libraries & Tools Used
+pandas        – data manipulation
+numpy         – numerical computation
+matplotlib    – data visualization
+seaborn       – statistical plots
+scikit-learn  – machine learning models
+Power BI      – interactive dashboard & reporting
 
-Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
-Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+Code: Link to page with code and visuals etc
 
-Results: Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+Description: The dataset comprises multiple variables that contribute to employee attrition analysis.
+
+Skills: data cleaning, data analysis, correlation matrices, machine learning, DAX.
+
+Technology: Python and its libraries along with Power BI for Visualization, Adobe Creative Suite for graphics.
+
+Results: The analysis revealed that overtime, income level, and tenure are the strongest predictors of employee attrition.
+Combining Power BI dashboards with Python machine learning enabled both descriptive and predictive insights, supporting data-driven HR retention strategies.
 
 
 
@@ -33,6 +44,6 @@ Certificates
 Master in Data Science....
 }
 
-Contacts
-LinkedIn: 
-Email: 
+Contacts (UAE): +971 507510579
+Email: franklin.castelino95@gmail.com
+
