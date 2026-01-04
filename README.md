@@ -37,7 +37,7 @@ Combining Power BI dashboards with Python machine learning enabled both descript
 ## Personal details
 
 ### Education
-  MSc in Data Analysis from Manipal Academy of Higher Education
+  MSc in Data Science from Manipal Academy of Higher Education
   
   Post Graduate Diploma (PGDM) in Commercial Shipping Management & Logistics from Narottam Morarjee Institute Of Shipping 
   
