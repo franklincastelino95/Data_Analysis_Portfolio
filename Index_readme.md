@@ -17,10 +17,15 @@ My portfolio showcases a selection of hands-on data analysis projects focused on
 🔗 [View Interactive Dashboard](https://app.powerbi.com/...)
 #### 🧰 Tools Used
 pandas        – data manipulation
+
 numpy         – numerical computation
+
 matplotlib    – data visualization
+
 seaborn       – statistical plots
+
 scikit-learn  – machine learning models
+
 Power BI      – interactive dashboard & reporting
 
 
