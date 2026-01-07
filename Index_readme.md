@@ -11,8 +11,12 @@
 [Personal details](#personal-details)
  
  
-### HR Employee Attrition
+## HR Employee Attrition
+### Power BI Dashboard – Attrition Analysis
 
+![Power BI Attrition Dashboard](images/powerbi_attrition_dashboard.png)
+
+🔗 [View Interactive Dashboard](https://app.powerbi.com/...)
 ### 🧰 Libraries & Tools Used
 pandas        – data manipulation
 numpy         – numerical computation
