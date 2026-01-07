@@ -11,7 +11,7 @@ My portfolio showcases a selection of hands-on data analysis projects focused on
  
  
 ### HR Employee Attrition
-####[Power BI Attrition Dashboard](Employee-attrition.ipynb)
+#### [Power BI Attrition Dashboard](Employee-attrition.ipynb)
 
 ![Power BI Attrition Dashboard](images/powerbi_attrition_dashboard.png)
 
