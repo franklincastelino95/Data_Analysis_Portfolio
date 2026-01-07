@@ -5,7 +5,7 @@ My portfolio showcases a selection of hands-on data analysis projects focused on
 
 ## Table of content
 
-**[HR Employee Attrition](#hr-employee-attrition)**
+**[HR Employee Attrition](#hr-employee-attrition)**  
 **[Personal details](#personal-details)**
  
  
