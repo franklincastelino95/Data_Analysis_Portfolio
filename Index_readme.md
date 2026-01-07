@@ -1,8 +1,7 @@
 #  Data Analysis Portfolio
 
 ## About
-{
-}
+My portfolio showcases a selection of hands-on data analysis projects focused on real-world problems. The work includes HR attrition analysis, where I explored factors influencing employee turnover, and healthcare-focused studies examining the relationship between sleep, cigarette smoking, and the rise of chronic conditions. Each project emphasizes practical data cleaning, exploratory analysis, and insight-driven storytelling, with a focus on turning raw data into clear, actionable conclusions.
 
 ### Table of content
 
