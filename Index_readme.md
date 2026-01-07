@@ -12,7 +12,7 @@
  
  
 ### HR Employee Attrition
-#### Power BI Dashboard – Attrition Analysis ![Power BI Attrition Dashboard](Employee-attrition.ipynb)
+#### Power BI Dashboard – Attrition Analysis [Power BI Attrition Dashboard](Employee-attrition.ipynb)
 
 ![Power BI Attrition Dashboard](images/powerbi_attrition_dashboard.png)
 
