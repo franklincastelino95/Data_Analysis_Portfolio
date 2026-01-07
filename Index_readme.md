@@ -16,16 +16,11 @@ My portfolio showcases a selection of hands-on data analysis projects focused on
 
 🔗 [View Interactive Dashboard](https://app.powerbi.com/...)
 #### 🧰 Tools Used
-pandas        – data manipulation
-
-numpy         – numerical computation
-
-matplotlib    – data visualization
-
-seaborn       – statistical plots
-
-scikit-learn  – machine learning models
-
+pandas        – data manipulation  
+numpy         – numerical computation  
+matplotlib    – data visualization  
+seaborn       – statistical plots  
+scikit-learn  – machine learning models  
 Power BI      – interactive dashboard & reporting
 
 
@@ -51,7 +46,7 @@ Combining Power BI dashboards with Python machine learning enabled both descript
   -Bachelor of Science (BSc IT) Information Technology from Mumbai University   
 
 
-#### Contacts (UAE): +971 507510579
+#### **Contacts (UAE): +971 507510579**
 
-#### Email: franklin.castelino95@gmail.com
+#### **Email: franklin.castelino95@gmail.com**
 
