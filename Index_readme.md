@@ -13,7 +13,7 @@ My portfolio showcases a selection of hands-on data analysis projects focused on
  
  
 ## HR Employee Attrition
-#### [Power BI Attrition Dashboard](Employee Attrition Analysis.ipynb)
+#### [Power BI Attrition Dashboard](HR_Attrition_Analysis.ipynb)
 
 ![Power BI Attrition Dashboard](images/powerbi_attrition_dashboard.png)
 
@@ -41,7 +41,7 @@ Combining Power BI dashboards with Python machine learning enabled both descript
 
 
 ## Chronic Disease Risk Analysis
-#### [Power BI Attrition Dashboard](Chronic Disease Risk Analysis.ipynb)
+#### [Power BI Attrition Dashboard](Chronic_Disease_Risk_Analysis.ipynb)
 
 ![Power BI Attrition Dashboard](images/Health_care_dashboard_01.png)
 
