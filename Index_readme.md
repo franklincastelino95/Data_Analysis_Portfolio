@@ -69,6 +69,11 @@ Power BI      – interactive dashboard & reporting
 
 
 ## Personal details
+#### **Contacts (UAE):** +971 507510579
+#### **Email:** franklin.castelino95@gmail.com
+#### **Date of Birth**	05th March 1995
+#### **Languages**	English, Hindi, Marathi
+
 
 ## Education
   -MSc in Data Science from Manipal Academy of Higher Education
@@ -78,7 +83,5 @@ Power BI      – interactive dashboard & reporting
   -Bachelor of Science (BSc IT) Information Technology from Mumbai University   
 
 
-#### **Contacts (UAE): +971 507510579**
 
-#### **Email: franklin.castelino95@gmail.com**
 
