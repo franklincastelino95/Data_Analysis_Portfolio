@@ -72,7 +72,7 @@ Power BI      – interactive dashboard & reporting
 #### **Contacts (UAE):** +971 507510579
 #### **Email:** franklin.castelino95@gmail.com
 #### **Date of Birth**	05th March 1995
-#### **Languages**	English, Hindi, Marathi
+#### **Languages**	English, Hindi, Marathi, Konkani
 
 
 ## Education
