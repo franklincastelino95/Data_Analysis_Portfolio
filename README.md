@@ -13,7 +13,7 @@ My portfolio showcases a selection of hands-on data analysis projects focused on
  
  
 ## Employee Attrition Analysis
-#### [Employee Attrition Analysis Page](HR_Attrition_Analysis.ipynb)
+#### [Employee Attrition Analysis Page](https://github.com/franklincastelino95/Data_Analysis_Portfolio/blob/main/Employee%20Attrition%20Analysis.ipynb)
 
 🔗 [View Power BI Attrition Dashboard](https://app.powerbi.com/groups/me/reports/26d0c0e1-b25a-4ece-99a2-83b2f24bc1de/424c8823459eb66f4017?experience=power-bi)
 
