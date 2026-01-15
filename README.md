@@ -43,6 +43,7 @@ Combining Power BI dashboards with Python machine learning enabled both descript
 
 
 ## Chronic Disease Risk Analysis
+
 #### [Chronic Disease Risk Analysis Page](Chronic_Disease_Risk_Analysis.ipynb)
 
 🔗 [View Power BI Chronic Disease Risk Analysis Dashboard](https://app.powerbi.com/groups/me/reports/98de7472-4f5b-4bc2-92b2-d52604c9ee6c/7af304c85ea8e0399060?experience=power-bi)
