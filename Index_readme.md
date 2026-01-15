@@ -17,7 +17,7 @@ My portfolio showcases a selection of hands-on data analysis projects focused on
 
 ![Power BI Attrition Dashboard](images/powerbi_attrition_dashboard.png)
 
-🔗 [View Interactive Dashboard](https://app.powerbi.com/...)
+🔗 [View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/26d0c0e1-b25a-4ece-99a2-83b2f24bc1de/424c8823459eb66f4017?experience=power-bi)
 #### 🧰 Tools Used
 pandas        – data manipulation  
 numpy         – numerical computation  
