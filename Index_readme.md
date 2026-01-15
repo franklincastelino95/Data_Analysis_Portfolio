@@ -6,7 +6,9 @@ My portfolio showcases a selection of hands-on data analysis projects focused on
 ## Table of content
 
 **[HR Employee Attrition](#hr-employee-attrition)**  
+
 **[Chronic Disease Risk Analysis](#chronic-disease-risk-analysis)** 
+
 **[Personal details](#personal-details)**
  
  
