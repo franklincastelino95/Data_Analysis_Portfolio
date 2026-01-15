@@ -13,12 +13,12 @@ My portfolio showcases a selection of hands-on data analysis projects focused on
  
  
 ## Employee Attrition Analysis
+
 #### [Employee Attrition Analysis Page](https://github.com/franklincastelino95/Data_Analysis_Portfolio/blob/main/Employee%20Attrition%20Analysis.ipynb)
 
 🔗 [View Power BI Attrition Dashboard](https://app.powerbi.com/groups/me/reports/26d0c0e1-b25a-4ece-99a2-83b2f24bc1de/424c8823459eb66f4017?experience=power-bi)
 
 ![Power BI Attrition Dashboard](images/powerbi_attrition_dashboard.png)
-
 
 #### 🧰 Tools Used
 pandas        – data manipulation  
@@ -44,7 +44,7 @@ Combining Power BI dashboards with Python machine learning enabled both descript
 
 ## Chronic Disease Risk Analysis
 
-#### [Chronic Disease Risk Analysis Page](chronic_disease_risk_analysis.ipynb)
+#### [Chronic Disease Risk Analysis Page](https://github.com/franklincastelino95/Data_Analysis_Portfolio/blob/main/Chronic%20Disease%20Risk%20Analysis.ipynb)
 
 🔗 [View Power BI Chronic Disease Risk Analysis Dashboard](https://app.powerbi.com/groups/me/reports/98de7472-4f5b-4bc2-92b2-d52604c9ee6c/7af304c85ea8e0399060?experience=power-bi)
 
