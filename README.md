@@ -13,6 +13,8 @@ My portfolio showcases a selection of hands-on data analysis projects focused on
 
 **[Personal details](#personal-details)**
  
+
+
  
 ## Employee Attrition Analysis
 
@@ -22,13 +24,11 @@ My portfolio showcases a selection of hands-on data analysis projects focused on
 
 ![Power BI Attrition Dashboard](images/powerbi_attrition_dashboard.png)
 
-#### 🧰 Tools Used
-pandas        – data manipulation  
-numpy         – numerical computation  
-matplotlib    – data visualization  
-seaborn       – statistical plots  
-scikit-learn  – machine learning models  
-Power BI      – interactive dashboard & reporting
+#### Tools Used
+Python data preparation and analysis
+Power BI – interactive dashboards and reporting
+Adobe Photoshop & Illustrator – visual design and presentation
+Blender (3D) – creative visualization support
 
 
 **Code:** Includes data cleaning, feature engineering, exploratory analysis, machine learning modeling, and visual storytelling using both Python and Power BI.
@@ -52,12 +52,11 @@ Combining Power BI dashboards with Python machine learning enabled both descript
 
 ![Power BI Customer segmentation Dashboard](images/Clustering.png)
 
-#### 🧰 Tools Used
-Python (Pandas, NumPy)
-Scikit-learn (KMeans, PCA, StandardScaler)
-Matplotlib (Visualization)
-Feature Engineering
-Unsupervised Machine Learning
+#### Tools Used
+Python data preparation and analysis
+Power BI – interactive dashboards and reporting
+Adobe Photoshop & Illustrator – visual design and presentation
+Blender (3D) – creative visualization support
 
 
 **Code:** Data cleaning, feature engineering, K-Means clustering, PCA visualization, and segment labeling.
@@ -80,13 +79,11 @@ Unsupervised Machine Learning
 
 ![Power BI Disease Risk Dashboard](images/Health_care_dashboard_01.png)
 
-#### 🧰 Tools Used
-pandas        – data manipulation  
-numpy         – numerical computation  
-matplotlib    – data visualization  
-seaborn       – statistical plots  
-scikit-learn  – machine learning models  
-Power BI      – interactive dashboard & reporting
+#### Tools Used
+Python data preparation and analysis
+Power BI – interactive dashboards and reporting
+Adobe Photoshop & Illustrator – visual design and presentation
+Blender (3D) – creative visualization support
 
 
 **Code:** Includes data cleaning, feature engineering, exploratory analysis, machine learning modeling, and visual storytelling using both Python and Power BI.
