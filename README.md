@@ -7,6 +7,8 @@ My portfolio showcases a selection of hands-on data analysis projects focused on
 
 **[Employee Attrition Analysis](#employee-attrition-analysis)**  
 
+**[Customer Segmentation Analysis](#customer-segmentation-analysis)** 
+
 **[Chronic Disease Risk Analysis](#chronic-disease-risk-analysis)** 
 
 **[Personal details](#personal-details)**
@@ -39,6 +41,34 @@ Power BI      – interactive dashboard & reporting
 
 **Results:** The analysis revealed that overtime, income level, and tenure are the strongest predictors of employee attrition.
 Combining Power BI dashboards with Python machine learning enabled both descriptive and predictive insights, supporting data-driven HR retention strategies.
+
+
+
+## Customer Segmentation Analysis
+
+#### [Customer Segmentation Analysis](https://github.com/franklincastelino95/Data_Analysis_Portfolio/blob/main/Clustering.ipynb)
+
+🔗 [View Power BI Attrition Dashboard](https://app.powerbi.com/groups/me/reports/cd878648-5cca-46b5-aac6-cf2fc783bb94/04172bfa54064bbd163f?experience=power-bi)
+
+![Power BI Customer segmentation Dashboard](images/Clustering.png)
+
+#### 🧰 Tools Used
+Python (Pandas, NumPy)
+Scikit-learn (KMeans, PCA, StandardScaler)
+Matplotlib (Visualization)
+Feature Engineering
+Unsupervised Machine Learning
+
+
+**Code:** Data cleaning, feature engineering, K-Means clustering, PCA visualization, and segment labeling.
+
+**Description:** The dataset consists of customer demographic, engagement, and transactional variables used to identify meaningful behavioral segments and revenue patterns.
+
+**Skills:** data cleaning, feature engineering, clustering (K-Means), exploratory data analysis (EDA), dimensionality reduction (PCA), segmentation modeling, data visualization.
+
+**Technology:** Python and its libraries along with Power BI for Visualization, Adobe Creative Suite for graphics.
+
+**Results:** The analysis identified four distinct customer segments based on engagement, purchasing behavior, discount dependency, and recency. Translating technical clusters into business labels enabled clearer strategic targeting and supported data-driven marketing and customer retention decisions.
 
 
 
