@@ -109,11 +109,14 @@ Power BI      – interactive dashboard & reporting
 
 
 ## Education
-  -MSc in Data Science from Manipal Academy of Higher Education
-  
-  -Post Graduate Diploma (PGDM) in Commercial Shipping Management & Logistics from Narottam Morarjee Institute Of Shipping 
-  
-  -Bachelor of Science (BSc IT) Information Technology from Mumbai University   
+   MSc in Data Analysis | 2025
+   Manipal Academy of Higher Education
+   
+   Post Graduate Diploma in Commercial Shipping & Logistics | 2019
+   Narottam Morarjee Institute of Shipping Mumbai, Maharashtra
+   
+   BSc IT – Information Technology | 2016
+   Mumbai University                                                                                                       
 
 
 
